@@ -16,8 +16,8 @@
 **Backlnk** ([backlnk.com](https://backlnk.com)) is a free technical SEO and AI-visibility platform. It runs real
 checks on real pages (meta tags, structured data, robots.txt access for AI crawlers, redirects, sitemaps, indexability,
 hreflang, internal links, page speed and more) and shows the evidence behind every finding: the URL, the exact excerpt
-and where it was found. It helps websites be found in search engines and in AI answers (SEO, AEO and GEO), and it gives
-AI coding agents the same checks through an MCP server.
+and where it was found. It helps websites be found in search engines and in AI answers (SEO, AEO, LLMO and GEO), and it
+gives AI coding agents the same checks through an MCP server.
 
 ## What you can do with Backlnk
 
